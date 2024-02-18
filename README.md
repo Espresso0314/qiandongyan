@@ -13,10 +13,11 @@
 
   <hr>
 
-  <kbd>
-    <a href="https://www.mapcrunch.com/">
-      <img src="https://media.giphy.com/media/l49JUvg7XunM0Usve/giphy.gif" alt="Hi!" style="width: 480px;"/>
-    </a>
-  </kbd>
 
 </div>
+
+<!-- Footer -->
+<p align="center">
+  Made with ❤️ by Dongyan Qian GPTs🐲<br>
+  <i>May the spirit of the loong guide and protect you throughout the year!</i>
+</p>
