@@ -9,6 +9,11 @@
   <strong>হ্যালো</strong> &emsp; <strong>bonjour</strong> &emsp; <strong>안녕하세요</strong> &emsp; <strong>olá</strong> &emsp; <strong>ਸਤ ਸ੍ਰੀ ਅਕਾਲ</strong> &emsp; <strong>habari</strong> &emsp; <strong>ہیلو</strong> &emsp; <strong>guten tag</strong>
 </p>
 
+<!-- Philosophy -->
+<p align="center">
+  <i>Interest is the best teacher! 🌟</i>
+</p>
+
 <!-- Footer -->
 <p align="center">
   Made with ❤️ by Dongyan GPTs 🌍<br>
